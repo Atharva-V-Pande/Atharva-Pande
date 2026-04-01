@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 About me
+##  About me
 
 I'm an operations professional who learned to build AI — and I believe that's a rarer combination than a developer who learned about operations.
 
